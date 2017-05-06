@@ -1,0 +1,3 @@
+#!/usr/bin/rarun2
+stdin=!python exploit.py
+stdout=output
